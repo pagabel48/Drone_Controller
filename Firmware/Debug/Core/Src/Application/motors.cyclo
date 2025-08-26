@@ -1,0 +1,2 @@
+../Core/Src/Application/motors.cpp:3:6:void Motors::init()	1
+../Core/Src/Application/motors.cpp:22:6:void Motors::update_duty_cycle(float*)	4

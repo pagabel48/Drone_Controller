@@ -1,0 +1,7 @@
+C:\ST\STM32CubeIDE_1.18.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\arm-none-eabi\include\c++\13.3.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../Core/Src/Application/application.cpp:3:6:void Application::init()	24	static
+../Core/Src/Application/application.cpp:55:6:void Application::loop()	72	static
+../Core/Src/Application/application.cpp:101:7:float Application::read_battery(ADC_HandleTypeDef*)	24	static
+../Core/Src/Application/application.cpp:111:5:int _write(int, char*, int)	32	static
+../Core/Src/Application/application.cpp:132:17:void start(I2C_HandleTypeDef*, TIM_HandleTypeDef*, TIM_HandleTypeDef*, ADC_HandleTypeDef*)	24	static
+../Core/Src/Application/application.cpp:146:17:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static

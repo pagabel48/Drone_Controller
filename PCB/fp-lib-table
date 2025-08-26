@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ICM-42670-P")(type "KiCad")(uri "${KIPRJMOD}/ICM-42670-P.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/pagab/Downloads/footprints.pretty")(options "")(descr ""))
+)

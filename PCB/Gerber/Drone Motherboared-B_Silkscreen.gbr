@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
+%TF.CreationDate,2025-07-22T02:57:33-04:00*%
+%TF.ProjectId,Drone Motherboared,44726f6e-6520-44d6-9f74-686572626f61,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-07-22 02:57:33*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.508000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SW3*%
+X179645780Y-69599999D02*
+G75*
+G02*
+X178883780Y-69599999I-381000J0D01*
+G01*
+X178883780Y-69599999D02*
+G75*
+G02*
+X179645780Y-69599999I381000J0D01*
+G01*
+%TD*%
+M02*
